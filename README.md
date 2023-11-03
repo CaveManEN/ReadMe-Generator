@@ -2,19 +2,6 @@
 
 Create a polished and professional README file for your project with ease! Our README Generator streamlines the process, ensuring you cover all the essential information without the hassle of formatting and organizing the content yourself.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
 ## About the Project
 
 This repository contains code for a Node.js-based README generator designed to help developers swiftly create a standardized README file. The following points describe what happens when a user runs the command "node index.js" in the terminal for this command-line application:
