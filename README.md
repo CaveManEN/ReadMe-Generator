@@ -1,6 +1,6 @@
 # README Generator
 
-Create a polished and professional README file for your project with ease! Our README Generator streamlines the process, ensuring you cover all the essential information without the hassle of formatting and organizing the content yourself.
+Create a polished and professional README file for your project with ease! 
 
 ## About the Project
 
