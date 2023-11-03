@@ -1,10 +1,10 @@
-# Project Title
+# readme gen
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Description of project
+it generates a readme
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ Description of project
 
 ## Installation
 
-by installing it
+easoly
 
 ## Usage
 
-by using it 
+by typing
 
 ## License
 
@@ -29,12 +29,13 @@ This project is licensed under the [MIT License]([License](https://opensource.or
 
 ## Contributing
 
-by contributing
+by forking
 
 ## Tests
 
-by testing it
+easily
 
 ## Questions
 
-If you have any questions, you can reach out to dscornaienchi on [GitHub](https://github.com/dscornaienchi) or contact them via email at test@test.com.
+If you have any questions, you can reach out to caveman on [GitHub](https://github.com/caveman) or contact them via email at ianccody@gmail.com.
+**
